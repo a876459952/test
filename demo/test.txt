@@ -15,3 +15,5 @@
 还原（reset）： 将本地文件回退到某个版本，不影响远程仓库的版本
 
 https://blog.csdn.net/wawawawawawaa/article/details/81172452
+
+拉回成功
